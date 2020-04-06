@@ -6,3 +6,6 @@ May 2017
 
 Deep LSTM Long Short Term Neural Network compiling a syscall mimicry.
 
+![Perplexity](...)
+
+
